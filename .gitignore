@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+*.explain.json
+*.blend1
+out.png
